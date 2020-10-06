@@ -39,6 +39,7 @@ namespace DictionarySample
 
             foreach (var dic in dictCountry.Values)
             {
+
                 //Console.WriteLine(dic);
                 Console.WriteLine(dic.Name);
                 Console.WriteLine(dic.Code);
